@@ -1,7 +1,11 @@
-K-Medoids algorithm implementation with 
+Clustering Algorithms -
 
-1) Partitioning Around Medoids (PAM)
+1) k-Means algorithm
 
-2) CLARA
+2) K-Medoids algorithm implementation with 
 
-3) CLARANS
+	- Partitioning Around Medoids (PAM)
+
+	- CLARA
+
+	- CLARANS
